@@ -104,7 +104,6 @@ IQ_BlueMoon
 Kartoffelkuchen
 Knes
 Launchers Pack
-MagicSmokeIndustries    (Infernal Robotics Legacy)
 NovaC
 NearFutureConstruction
 NearFutureElectrical

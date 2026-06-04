@@ -1,0 +1,168 @@
+================================================================
+ Mod list — RSS / Realism Overhaul / RP-1 install (KSP 1.12.x)
+ GameData folders these Engantor patches are built against.
+ (Stock Squad / SquadExpansion and generated caches omitted.)
+================================================================
+
+--- Core framework: RO / RP-1 / RealFuels stack ---
+AJE
+CommunityCategoryKit
+CommunityResourcePack
+ContractConfigurator
+CustomBarnKit
+CustomPreLaunchChecks
+DeployableEngines
+DynamicBatteryStorage
+EngineGroupController
+FerramAerospaceResearch
+Kerbalism
+KerbalismConfig
+ModularFlightIntegrator
+PatchManager
+Principia
+RealAntennas
+RealChute
+RealFuels
+RealHeat
+RealismOverhaul
+RealPlume
+ROCapsules
+ROEngines
+ROHeatshields
+ROLib
+ROLoadingImages
+ROSolar
+ROTanks
+ROUtils
+RP-1
+RP-1-ExpressInstall
+Skopos
+SolverEngines
+SystemHeat
+TestFlight
+
+--- Dependencies / shared plugins ---
+000_ClickThroughBlocker
+000_Harmony
+000_KSPBurst
+000_TexturesUnlimited
+001_ToolbarControl
+AnimatedDecouplers
+B9PartSwitch
+B9_Aerospace_ProceduralWings
+BahaSP
+CommunityResourcePack
+DepthMask
+Firespitter
+KSPCommunityFixes
+KSPTextureLoader
+KSPWheel
+ModularFlightIntegrator
+Shabby
+SimpleAdjustableFairings
+SmokeScreen
+StagedAnimation
+
+--- Planet pack / RSS visuals ---
+AdvancedPQSTools
+BurstPQS
+EnvironmentalVisualEnhancements   (Patreon raymarched-volumetrics build, EVE 3.1.2)
+Kopernicus
+ParallaxContinued
+Parallax_StockPlanetTextures
+Parallax_StockScatterTextures
+Parallax_StockTerrainTextures
+Resurfaced
+RSS-CanaveralHD
+RSSDateTime
+Scatterer
+Sol-Configs
+Sol-Textures
+Sol-Visuals
+StockScattererConfigs
+StockVolumetricClouds
+TUFX
+zzz_Deferred
+
+--- Launch sites / ground (Kerbal Konstructs) ---
+CanaveralPads
+KerbalKonstructs
+KSCSwitcher
+ModularLaunchPads
+OSSNTR
+TundraSpaceCenter
+
+--- Part mods ---
+Benjee10_Orion          (Artemis Construction Kit — Orion / SLS)
+Benjee10_sharedAssets
+Bluedog_DB
+EDBMods                 (FutureTech + New Glenn)
+HabTech2                (ISS)
+htRobotics              (Canadarm2 / SSRMS — Breaking Ground)
+HabTechProps
+IQ_BlueMoon
+Kartoffelkuchen
+Knes
+Launchers Pack
+MagicSmokeIndustries    (Infernal Robotics Legacy)
+NovaC
+NearFutureConstruction
+NearFutureElectrical
+NearFutureExploration
+NearFutureProps
+NearFuturePropulsion
+NearFutureSolar
+NearFutureSpacecraft
+PEKKAsMods              (Falcon / Electron / Alpha / Vulcan / Starship / Helios / Psyche)
+Pmborg-RealFalcons
+ProceduralFairings
+ProceduralParts
+ReStock
+ReStockPlus
+SPACE_SHUTTLE_SYSTEM    (giuliodondi realistic-aero fork)
+SXT
+TrufiadokAirSpaceCo     (IKRC — inverse-kinematics robot controller + Canadarm2/Dextre)
+VenStockRevamp
+VertexBasedProceduralParts
+
+--- Texture Unlimited reflection configs ---
+TU_NearFuturePropulsion
+TU_NearFutureSpacecraft
+
+--- IVA / props ---
+ASET
+DE_IVAExtension
+FreeIva
+JSI
+NavyFish
+
+--- Tools / utility / UI ---
+ConformalDecals
+EditorExtensionsRedux
+FShangarExtender
+HUDReplacer
+Kerbaltek                (Hyperedit)
+KerbalChangelog
+KerbalFoundries
+KerbalJointReinforcement
+KerbalRenamer
+kOS
+kOS-Addons
+LunarTransferPlanner
+MechJeb2
+PlusFlags
+RCSBuildAid
+RetractableLiftingSurface
+ShipManifest
+StockAlarmClockDisabler
+TextureReplacer
+TriggerTech
+TSSafetyNet
+TweakScale
+VABOrganizer
+VABOrganizer-RP-1 Configs
+VesselView
+ZTheme
+
+--- This repo ---
+Engantor                (these patches)

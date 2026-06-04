@@ -1,0 +1,14 @@
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+*.bak
+*.cfg.bak
+*.orig
+
+# ModuleManager artifacts (never live in this folder, but just in case)
+ModuleManager.ConfigCache
+ModuleManager.ConfigSHA
+ModuleManager.Physics
+ModuleManager.TechTree

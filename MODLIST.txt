@@ -120,7 +120,6 @@ ReStock
 ReStockPlus
 SPACE_SHUTTLE_SYSTEM    (giuliodondi realistic-aero fork)
 SXT
-TrufiadokAirSpaceCo     (IKRC — inverse-kinematics robot controller + Canadarm2/Dextre)
 VenStockRevamp
 VertexBasedProceduralParts
 
